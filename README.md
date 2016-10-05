@@ -25,4 +25,5 @@ Reset the scene with button (or r key).
 # DRIVE THE CAR 
 With the left or right keys
 Tilt the car (if you are crashed) with the up or down keys
+# PLAY WITH IT AT: https://licart.github.io/draw-to-play/
 

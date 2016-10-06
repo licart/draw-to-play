@@ -13,8 +13,8 @@ Choose with the buttons if your drawing will be
 # fixed or dynamic shapes. Choose dynamic to play the media,
 just draw a shape who will touch the media box
 
-![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw.png) 
-![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw2.png)
+![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw.PNG) 
+![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw2.PNG)
 Erase your drawing with the button (or e key).
 
 # zoom in and out: 

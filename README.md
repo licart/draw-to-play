@@ -13,9 +13,8 @@ Choose with the buttons if your drawing will be
 # fixed or dynamic shapes. Choose dynamic to play the media,
 just draw a shape who will touch the media box
 
-![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw.PNG)
-
-![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw2.PNG)
+![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw.png) 
+![Settings Window](https://raw.github.com/licart/draw-to-play/gh-pages/Capturedraw2.png)
 Erase your drawing with the button (or e key).
 
 # zoom in and out: 
@@ -25,5 +24,8 @@ Reset the scene with button (or r key).
 # DRIVE THE CAR 
 With the left or right keys
 Tilt the car (if you are crashed) with the up or down keys
+# DRAG THE BODIES 
+with your mouse/pen
+
 # PLAY WITH IT AT: https://licart.github.io/draw-to-play/
 

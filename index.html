@@ -20,11 +20,11 @@ canvas { display:block; background-color: MidnightBlue ; cursor: pointer;}
 
     <div id="body" ><iframe id ="tv"  src=""  frameborder="0"></iframe> </div>  
 		
-                <div style="position: absolute; top:95%; left: 45%; width: 45%; height: 8%;vertical-align: top;text-align: center; background-color: lavender;" >
+                <div style="position: absolute; bottom:0; right: 0; text-align: center; background-color: lavender;" >
                    <button  onclick="fixe=true; dyna=false">Fixed</button>                   
                     <button  onclick="pause();">Pause</button>
-                    <button  onclick="eraseline();">Erase</button><label for="rangeinput">zoom</label>
-<input id="rangeinput" style="width: 80px; " type="range"  value=30  min="25" max="35"/>
+                    <button  onclick="eraseline();">Erase</button>&nbsp; +
+<input id="rangeinput" style="width: 80px; " type="range"  value=30  min="25" max="35"/>-&nbsp;
                     <button onclick="resetScene();">Reset</button>
 					<button  onclick="dyna=true; fixe=false">Dynamic</button>                   
                 </div>

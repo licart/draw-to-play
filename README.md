@@ -29,5 +29,5 @@ Tilt the car (if you are crashed) with the up or down keys
 # DRAG THE BODIES 
 with your mouse/pen
 
-# PLAY WITH IT AT: https://licart.github.io/draw-to-play/
+# PLAY WITH IT AT: https://licart.github.io/draw2play/
 

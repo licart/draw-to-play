@@ -28,6 +28,9 @@ With the left or right keys
 Tilt the car (if you are crashed) with the up or down keys
 # DRAG THE BODIES 
 with your mouse/pen
+# PAUSE THE GAME 
+with the button to stop the physics calculation
 
 # PLAY WITH IT AT: https://licart.github.io/draw2play/
-
+thank's to Github 
+thank's for reading
